@@ -13,5 +13,5 @@ footer    { grid-area: footer; }
 
 Two things JavaScript can do:  
 
-- jgfjhfhjkfg
-- ccccccccc
+- **Javascript can calculate, manipulate and validate data.**
+- *It can update and change HTML and CSS.*
