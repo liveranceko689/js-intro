@@ -73,7 +73,9 @@ PROMPT: Now ask Gemini to give you three examples of JavaScript string variables
 
 ```javascript
 // Write the example code Gemini gives you inside this code block
-
+const userName = "Alex";
+const favoriteMovie = "Interstellar";
+const cityLocation = "Tokyo";
 
 ```
 
