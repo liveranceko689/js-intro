@@ -7,3 +7,6 @@ nav       { grid-area: nav; }
 main      { grid-area: main; }
 aside     { grid-area: sidebar; }
 footer    { grid-area: footer; }
+```
+
+[JavaScript tutorial on w3schools.com](https://www.w3schools.com/js/)
