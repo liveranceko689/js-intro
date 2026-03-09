@@ -46,11 +46,12 @@ Before we touch the keyboard, I want to see your blueprint. Imagine you are buil
 
 1. Which piece of data about a player would stay the same forever (requiring a "safe"), and which might change as the player plays (requiring a "box")?
 
-*Answer here...*
+The date of birth of a player would stay the same forever being locked in a "safe", but the players current score would be changing a lot more.
+
 
 3. If you had to explain the `=` symbol to a non-coder using the analogy of a "bucket" and a "ball," how would you describe it?
 
-*Answer here...*
+a bucket with a label on the side being the variable name and a ball being your piece of data.
 
 ---
 
@@ -85,8 +86,8 @@ To start your **Final Task**, how would you write a **single-line comment** at t
 Add your answer to the JavaScript code block below.
 
 ```javascript
-// Write your answer below this JavaScript comment
 
+// Lead Developer: [Your Name]
 
 ```
 
