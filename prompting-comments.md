@@ -36,8 +36,7 @@ Comments are lines of text that the computer completely ignores, yet they are so
 
 ### 📝 Think & Record
 
-* **What is the main reason developers add comments to their code?**
-* *Type here...*
+* **What is the main reason developers add comments to their code?*
 
 
 * **What made the example of a vague comment difficult to understand?**
